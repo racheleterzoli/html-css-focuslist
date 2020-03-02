@@ -1,3 +1,28 @@
-body{
-  color:red;
+.sezionefissa{
+
+  display: inline-block;
+  position:fixed;
+  background-color: #2c3e50;
+  height:100px;
+  width: 100%;
+  color:white;
+  text-align: center;
+}
+.azzurro{
+  background-color:#1abc9c;
+  height:1000px;
+}
+.bianca{
+  height:1000px;
+}
+.footer1{
+  background-color: #2c3e50;
+  height:400px;
+}
+.footer2{
+  background-color:#1a252f;
+  height:100px;
+}
+.testo{
+margin-top: 30px;
 }
